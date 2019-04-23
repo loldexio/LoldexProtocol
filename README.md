@@ -20,7 +20,7 @@ Smart contract to trade and support our front end
 
 ## Other contracts under development
 
-### LOLB Exchange Trade
+### LOLB Exchange Sidechain Orderbook 
 Smart contracts to improve the exchange mechanism and features 
 ### LOLB IEO Listing  
 Smart contract to run your own Initial Exchange Offering
