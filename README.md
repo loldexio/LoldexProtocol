@@ -48,8 +48,8 @@ If it requires images, the image files should be included in a subdirectory of t
 
 ### LIP Status Terms
 
-Draft - first publish undergoing rapid iteration and changes
-Last Call - ready for review by a wide audienc
+Draft - first publish version that is undergoing rapid iteration 
+Last Call - ready for final review by a wide audience after all feedback gathered  
 Accepted - LIP that the Core Devs have decided to implement 
 Deferred - not being considered for immediate adoption. May be reconsidered in the future 
  
