@@ -10,24 +10,25 @@ You can propose LIPs - Loldex improvement proposals and contribute
 
 ## Developed Smart Contracts 
 
-### LOLB Token Burn Contract
+### LOLB Token Burn  
 Smart contract that burns LOLB tokens when trade is completed
 https://ropsten.etherscan.io/tx/0xb6bb4d3a7a96fd3fd5774b4e1f9463341c18b4a6c1150bb4312634f38808a8c2
 ### LOLB WETH 
 Our own WETH variant to trade ETH
-### LOLB Exchange 
+### LOLB Basic Exchange Mechanism
 Basic Smart contract to trade and support our front end 
 
 ## Other contracts under development
 These contracts are currently being developed by core devs and contributors
 
-### LOLB Ethereum POA Sidechain Fast Orderbook 
-Smart contracts to improve the exchange mechanism and features 
-### LOLB IEO Listing  
-Smart contract to run your own Initial Exchange Offering
-### LOLB Coordinating Liqudiity
-Smart contract to run your own liquidity pool
-### LOL Bitcoin Cash Sidechain Protocol 
+### LOLB Fast Orderbook and Audit Sidechain
+Smart contracts to improve the exchange mechanism and features. Will be pubic-private blockchain model 
+### LOLB IEO Listing and Liqudiity Pool
+Smart contract to run your own Initial Exchange Offering or run your own liquidity pool. Will be pubic-private blockchain model 
+### LOL Bitcoin Cash Sidechain and LOLB SLP 1:1 Token  
+Smart contract to pair with Bitcoin Cash SLP tokens. May expand features to other aspects. Dependent on Bitcoin Cash blockchain and utilities 
+https://github.com/simpleledger/Electron-Cash-SLP
+https://github.com/simpleledger/slp-specifications
 
 ## LIPs LOLDEX Improvement Proposals
 
