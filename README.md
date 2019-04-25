@@ -16,16 +16,18 @@ https://ropsten.etherscan.io/tx/0xb6bb4d3a7a96fd3fd5774b4e1f9463341c18b4a6c1150b
 ### LOLB WETH 
 Our own WETH variant to trade ETH
 ### LOLB Exchange 
-Smart contract to trade and support our front end 
+Basic Smart contract to trade and support our front end 
 
 ## Other contracts under development
+These contracts are currently being developed by core devs and contributors
 
-### LOLB Exchange Sidechain Orderbook 
+### LOLB Ethereum POA Sidechain Fast Orderbook 
 Smart contracts to improve the exchange mechanism and features 
 ### LOLB IEO Listing  
 Smart contract to run your own Initial Exchange Offering
 ### LOLB Coordinating Liqudiity
 Smart contract to run your own liquidity pool
+### LOL Bitcoin Cash Sidechain Protocol 
 
 ## LIPs LOLDEX Improvement Proposals
 
@@ -37,7 +39,7 @@ Inspired by Ethereum Improvement Proposals (EIPs) describe standards for the Eth
 Review LIP-1.
 Fork the repository by clicking "Fork" in the top right.
 Add your LIP to your fork of the repository.  
-Submit a Pull Request to Ethereum's EIPs repository.
+Submit a Pull Request to LOLDEX repository.
 Your first PR should be a first draft of the final. It must meet the formatting criteria enforced by the build (largely, correct metadata in the header). An editor will manually review the first PR for a new LIP and assign it a number before merging it. Make sure you include a discussions-to header with the URL to a discussion forum or open GitHub issue where people can discuss.
 
 If it requires images, the image files should be included in a subdirectory of the assets folder for that as follow: assets/lip-X (for lip X). When linking to an image in the EIP, use relative links such as ../assets/lip-X/image.png.
@@ -47,6 +49,6 @@ If it requires images, the image files should be included in a subdirectory of t
 
 Draft - first publish undergoing rapid iteration and changes
 Last Call - ready for review by a wide audienc
-Accepted - an EIP that the Core Devs have decided to implement 
+Accepted - LIP that the Core Devs have decided to implement 
 Deferred - not being considered for immediate adoption. May be reconsidered in the future 
-Preferred Citation Format
+ 
