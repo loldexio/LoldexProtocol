@@ -3,11 +3,6 @@
 Loldex is an open protocol that facilitates trustless, purely smart contract driven, low friction exchange of Ethereum-based assets. 
 For more information on how it works, check out the protocol specification.
 
-This repository protocol smart contracts and numerous developer tools. If you're developing on 0x now or are interested in using infrastructure in the future, 
-please join our developer mailing list for updates on our website www.loldex.io
-
-You can propose LIPs - Loldex improvement proposals and contribute 
-
 ## Developed Smart Contracts 
 
 ### LOLB Token Burn  
@@ -25,8 +20,8 @@ https://github.com/loldexio/LoldexProtocol/wiki
 
 ### LOLB IEO Listing and Liqudiity Pool
 Smart contract to run your own Initial Exchange Offering or run your own liquidity pool. Will be pubic-private blockchain model 
-### LOL Bitcoin Cash Sidechain and LOLB SLP 1:1 Token  
 Smart contract to pair with Bitcoin Cash SLP tokens. May expand features to other aspects. Dependent on Bitcoin Cash blockchain and utilities 
+
 https://github.com/simpleledger/Electron-Cash-SLP
 https://github.com/simpleledger/slp-specifications
 
@@ -34,8 +29,11 @@ https://github.com/simpleledger/slp-specifications
 
 Inspired by Ethereum Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards, LOLDEX has its own LIPs 
  
+This repository protocol smart contracts and numerous developer tools. If you're developing or are interested in using infrastructure in the future, please join our developer mailing list for updates on our website www.loldex.io
 
-### Contributing
+You can propose LIPs - Loldex improvement proposals and contribute 
+
+### Contributing Methodology
 
 Review LIP-1.
 Fork the repository by clicking "Fork" in the top right.
