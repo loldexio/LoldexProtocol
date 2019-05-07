@@ -8,19 +8,20 @@ For more information on how it works, check out the protocol specification.
 ### LOLB Token Burn  
 Smart contract that burns LOLB tokens when trade is completed
 https://ropsten.etherscan.io/tx/0xb6bb4d3a7a96fd3fd5774b4e1f9463341c18b4a6c1150bb4312634f38808a8c2
+Target burn https://etherscan.io/token/0x833a2d1bf71d2dcfd66071aafc7ac827d6eb5ebc - To be confirmed 
 ### LOLB WETH 
 Our own WETH variant to trade ETH
 ### LOLB Basic Exchange Mechanism
 Basic Smart contract to trade and support our front end 
 ### LOLB Fast Orderbook and Audit Sidechain
-Smart contracts to improve the exchange mechanism and features. Will be public-private blockchain model 
+Ethereum POA Side Chain and Smart contracts to improve the exchange mechanism and support our automation features. Will be public-private blockchain model 
 https://github.com/loldexio/LoldexProtocol/wiki
 
 ## In Progress
 
-### LOLB IEO Listing and Liqudiity Pool
-Smart contract to run your own Initial Exchange Offering or run your own liquidity pool. Will be pubic-private blockchain model 
-Smart contract to pair with Bitcoin Cash SLP tokens. May expand features to other aspects. Dependent on Bitcoin Cash blockchain and utilities 
+### Automated Trading with connection to BCH and BinanceDEX
+Smart contract to run your own Initial Exchange Offering or run your own liquidity pool using pubic-private blockchain model 
+Smart contract to pair with Bitcoin Cash SLP tokens and BNB tokens.  
 
 https://github.com/simpleledger/Electron-Cash-SLP
 https://github.com/simpleledger/slp-specifications
