@@ -1,7 +1,7 @@
 # LoldexProtocol
 
 Loldex is an open protocol that facilitates trustless, purely smart contract driven, low friction exchange of Ethereum-based assets. 
-For more information on how it works, check out the protocol specification.
+Harnessing the power of unlimited side chains to power the future of digital assets finance. For more information on how it works, check out the protocol specification.
 
 ## Developed Smart Contracts 
 
@@ -19,9 +19,12 @@ https://github.com/loldexio/LoldexProtocol/wiki
 
 ## In Progress
 
-### Automated Trading with connection to BCH and BinanceDEX
+### Automated Trading with connection to our side chain design 
 Smart contract to run your own Initial Exchange Offering or run your own liquidity pool using pubic-private blockchain model 
-Smart contract to pair with Bitcoin Cash SLP tokens and BNB tokens.  
+Smart contract to pair with non ERC20 tokens i.e. Bitcoin Cash SLP tokens, WAVES and BNB tokens.  
+Smart contract to pull real time market data through our side chain APis i.e. 0x
+
+Dependencies
 
 https://github.com/simpleledger/Electron-Cash-SLP
 https://github.com/simpleledger/slp-specifications
